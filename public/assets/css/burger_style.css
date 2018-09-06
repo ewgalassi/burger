@@ -1,0 +1,54 @@
+* {
+    color: white;
+}
+
+body {
+    background-image: url(../img/fists.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button, input {
+    background-color: darkred;
+}
+
+h1 {
+    text-align: center;
+    font-size: 78px;
+    margin: 10px;
+    font-family: 'Bungee Inline', cursive;
+    line-height: 100px;
+}
+
+h2 {
+    font-size: 32px;
+    font-family: 'Bungee Inline', cursive;
+    line-height: 40px;
+}
+
+li, label, input, button {
+    font-size: 20px;
+    margin: 5px;
+    font-family: 'Baloo Chettan', cursive;
+}
+
+#party {
+    float: left;
+}
+
+#gulag {
+    float: right;
+}
+
+#gulag-list {
+    position: relative;
+    left: 90px;
+}
+
+#newBurg {
+    position: fixed;
+    bottom: 5%;
+    left: 30%;
+}
