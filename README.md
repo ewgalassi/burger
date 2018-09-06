@@ -4,7 +4,7 @@ Greetings, comrade!  Welcome to the burger restaurant of the people.  Please ent
 
 ## Click the link for the deployed app
 
-https://morning-oasis-71374.herokuapp.com/
+https://fierce-journey-58337.herokuapp.com/
 
 Otherwise, you can install the app on your own computer.
 
@@ -13,8 +13,8 @@ Here is how you get started:
 
 Enter in these commands in your command line console
 ```
-git clone git@github.com:ewgalassi/burger.git
-cd burger
+git clone git@github.com:ewgalassi/burger_copy.git
+cd burger_copy
 npm init -y
 npm install
 ```
