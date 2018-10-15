@@ -13,8 +13,8 @@ Here is how you get started:
 
 Enter in these commands in your command line console
 ```
-git clone git@github.com:ewgalassi/burger_copy.git
-cd burger_copy
+git clone git@github.com:ewgalassi/burger.git
+cd burger
 npm init -y
 npm install
 ```
